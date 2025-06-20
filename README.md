@@ -1,1 +1,10 @@
-# mipagina
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Mi Primera Página HTML</title>
+</head>
+<body>
+ <h1>¡Hola, Mundo!</h1>
+ <p>Esta es mi primera página web.</p>
+</body>
+</html>
